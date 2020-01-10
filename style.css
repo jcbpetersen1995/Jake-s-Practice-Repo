@@ -1,3 +1,7 @@
 img {
     border: 5px double #ffc107;
 }
+
+h5 {
+    font-weight: bold;
+}
